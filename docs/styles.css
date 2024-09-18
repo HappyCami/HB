@@ -10,6 +10,7 @@ body {
   .corazon {
     position: relative;
     width: 400px;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,7 +20,7 @@ body {
   }
 
   .corazon img{
-    width: 45%;
+    width: 40%;
   }
   
   .flower-image {
@@ -79,7 +80,7 @@ body {
     width: 100%;
     height: 25px;
     position: absolute;
-    bottom: -260px;
+    bottom: -290px;
     left: 50%;
     transform: translateX(-50%);
   }
